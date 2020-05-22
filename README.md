@@ -1,10 +1,7 @@
-# Minimal Theme
+# AMA transcripts
 
-[Demo the Theme](http://orderedlist.github.com/minimal/)
+Developed by tank#0001 for the Discord of reddit.com/r/iphone, to be used as a shareable record of AMA Q&A's.
 
-This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
-
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
 
 # License
 
